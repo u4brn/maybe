@@ -17,7 +17,6 @@ def line(x):
 def clear():
     os.system("cls" if os.name == "nt" else "clear")
     
-aprint("uk3run3l apresenta:\n")
 line(10)
 aprint("Maybe")
 line(10)
